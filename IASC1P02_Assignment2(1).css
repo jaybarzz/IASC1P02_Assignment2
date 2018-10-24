@@ -1,0 +1,38 @@
+.purpletext{
+	color:purple;
+  font-family:"arial", arial;
+  position: relative;
+}
+
+.bigtext{
+  text-transform: uppercase;
+  font-size: 40px;
+}
+
+.p1, .p3{
+  color:green;
+  font-weight: bold;
+}
+
+.top p{
+  color:blue;
+  font-weight: bold;
+}
+
+.FixedPic{
+  position:fixed;
+  top:10px;
+  right:20px;
+}
+.AbsolutePic1Pic{
+  position:absolute;
+}
+
+.box{
+margin: 20px 10% 20px 10%;
+border: hotpink 3px inset;
+padding: 10px 10% 20px 10%;
+text-align: center;
+font-weight:bold;
+background-color:lightyellow;
+}
